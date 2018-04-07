@@ -1,0 +1,1 @@
+right.keyboard_send('<ctrl>+<keys><ctrl>+<ctrl><right>+<right>')

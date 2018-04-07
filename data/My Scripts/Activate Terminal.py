@@ -1,0 +1,1 @@
+window.activate('Gnome-terminal: ~',matchClass=True,switchDesktop=True)

@@ -1,0 +1,1 @@
+window.activate('Slack',matchClass=True,switchDesktop=True)

@@ -1,0 +1,1 @@
+window.activate('Firefox',switchDesktop=True)

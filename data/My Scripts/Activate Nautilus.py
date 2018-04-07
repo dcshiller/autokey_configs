@@ -1,0 +1,1 @@
+window.activate('nautilus.Nautilus', matchClass=True, switchDesktop=True)

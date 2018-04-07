@@ -1,0 +1,1 @@
+window.activate('Thunderbird',switchDesktop=True)
