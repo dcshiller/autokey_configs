@@ -1,1 +1,1 @@
-window.activate('Gnome-terminal: ~',matchClass=True,switchDesktop=True)
+window.activate('derek@Hasdrubal',switchDesktop=True)

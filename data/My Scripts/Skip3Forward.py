@@ -1,1 +1,1 @@
-right.keyboard_send('<ctrl>+<keys><ctrl>+<ctrl><right>+<right>')
+keyboard.send_keys('<ctrl>+<right><ctrlA>+<right><ctrl>+<right>')
